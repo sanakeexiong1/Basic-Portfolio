@@ -90,3 +90,36 @@ p.footer {
     bottom: 0;
     width: 100%;
 }
+
+p.given {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+p.input {
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
+    font-size: 12px;
+    padding: 8px;
+    margin: 2px;
+}
+
+p.inputMessage {
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 1px;
+    font-size: 12px;
+    padding: 8px;
+    margin: 2px;
+    height: 100px;
+}
+
+p.submit {
+    background-color: #4aaaa5;
+    display: inline;
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 10px 0px 0px 0px;
+}
