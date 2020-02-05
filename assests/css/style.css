@@ -36,12 +36,13 @@ header {
     height: 400px;
     background-color: #ffffff;
     border-color: #dddddd;
-    margin-left: 15%;
     margin-top: 2%;
     border-style: solid;
     border-color: #dddddd;
     border-width: 2px;
     padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
